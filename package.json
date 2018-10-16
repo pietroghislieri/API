@@ -2,7 +2,7 @@
   "name": "api-pg",
   "version": "1.0.0",
   "description": "",
-  "main": "pgapp.js",
+  "main": "index.js",
   "scripts": {
     "start": "node pgapp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
